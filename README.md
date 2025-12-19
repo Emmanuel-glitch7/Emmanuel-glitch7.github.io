@@ -1,4 +1,4 @@
-# [Your Name] - Data Analysis Portfolio
+# Emmanuel Daramola - Data Analysis Portfolio
 
 Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
 
@@ -15,23 +15,23 @@ This portfolio is designed to demonstrate skills in:
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
 ### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+- Optimizing Order Fulfillment by identifying mounting order backlogs and efficiently allocate resources based on order volume, proferring solution to customer frustration and visbility gap by enhancing customer communication with timely status updates using Excel, google sheet, pivot table.
 
 ### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
+- Enhancing Brand Reputation with Cutting-Edge Social Media Monitoring by identifying negative socialmedia buzz, rising complaint and product recalls, competitve threat, using SQL Power BI, Microsoft Power Point for data cleaning and manupulation, data visualisation, monitor conversations, sentiment analysis, crisis detection and issue resolution. 
 
 ### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
+- App Engagement Mastery Monitoring Dashboard Insights for User Adoption & Interaction by monitoring performance, Assess market embrace, identify improvements using SQL, Tableau, Microsoft Power Point to identify the daily active users, sign up rates, installation rates.
 
 
 ## 🛠️ Skills
 
 Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
 
-- **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
-- **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
-- **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
-- **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
+- **Data Visualization**: Power BI, Tableau, Matplotlib, Looker Studio.
+- **Data Analysis**: SQL, Python (Pandas), Excel.
+- **Data Modeling**: Power Query, DAX, Star Schema Design.
+- **Tools**: Power BI Service, specific cloud platforms.
 
 ## 💡 How to Use This Template
 
