@@ -23,6 +23,11 @@ This template is set up to showcase your best work. You can easily customize the
 ### Project Title Three
 - App Engagement Mastery Monitoring Dashboard Insights for User Adoption & Interaction by monitoring performance, Assess market embrace, identify improvements using SQL, Tableau, Microsoft Power Point to identify the daily active users, sign up rates, installation rates.
 
+### Project Title Four
+- Optimizing Employee Performance and Employee Benefit Programs through Data-Driven Insights, using SQL, Looker Studio, Microsoft Power Point to provide real-time visibility to the CEO and HR Manager for making timely, data-driven decisions that optimize employee development, performance management, and benefits allocation.
+
+### Project Title Five
+- Leveraging Social Determinants of Health (SDOH) Analytics to Address Healthcare Disparities, using Excel, Power Query, Power BI, Microsoft Power Point to Integrate SDOH Data, Automate Data Processing, Develop Real-Time Dashboards, Enable Proactive Interventions.
 
 ## 🛠️ Skills
 
@@ -31,7 +36,7 @@ Update the `index.html` file to reflect your personal technical skillset. The te
 - **Data Visualization**: Power BI, Tableau, Matplotlib, Looker Studio.
 - **Data Analysis**: SQL, Python (Pandas), Excel.
 - **Data Modeling**: Power Query, DAX, Star Schema Design.
-- **Tools**: Power BI Service, specific cloud platforms.
+- **Tools**: Power BI Service, Sharepoint, Power Automate.
 
 ## 💡 How to Use This Template
 
